@@ -1,6 +1,7 @@
 # Alm Management Simulator
 
-**Team:** MK Productions  |  **Wettbewerbe:** Fit 4 Future, Kardea  
+**Team:** MK Productions  
+**Wettbewerbe:** Fit 4 Future, Kardea  
 **Mitglieder:** Abdel Hamid, Gharsallah, Montes de Oca, Polat, Vuckovic
 
 ## Spielidee
